@@ -6,7 +6,7 @@ for num in range(1,51):
     if num % 2 == 0:
         print(f"{num} is even")
 
-print ("\n")
+print ("-----")
 
 #Rewriting using a while loop
 num = 1
@@ -14,4 +14,6 @@ while num <= 50:
     if num % 2 == 0:
         print(f"{num} is even")
     num += 1
+
+
     
